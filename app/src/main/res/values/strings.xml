@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello world</string>
+    <string name="title">This is the first application from Group 1:</string>
+    <string name="participant1">Emīls Baškers</string>
+    <string name="participant2">Dāvis Mediņš</string>
+    <string name="end">And the application was developed by </string>
+</resources>
